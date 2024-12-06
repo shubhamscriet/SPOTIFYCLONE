@@ -1,2 +1,2 @@
 # SPOTIFYCLONE
-My first project with html and css
+Some Logos are taken from  FONTAWESOME web 
