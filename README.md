@@ -1,3 +1,3 @@
 # SPOTIFYCLONE
-Some Logos are taken from  FONTAWESOME web 
+Some Logos are taken from  FONTAWESOME web. 
 
